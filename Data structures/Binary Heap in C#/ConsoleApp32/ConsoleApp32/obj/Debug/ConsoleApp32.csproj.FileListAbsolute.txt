@@ -1,0 +1,10 @@
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.pdb
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csprojAssemblyReference.cache
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+C:\Users\VAIO-PCV\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.pdb
+G:\ADST\Binary Heap in C#\ConsoleApp32\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+G:\ADST\Binary Heap in C#\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+G:\ADST\Binary Heap in C#\ConsoleApp32\ConsoleApp32\obj\Debug\ConsoleApp32.pdb

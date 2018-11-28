@@ -1,0 +1,4 @@
+E:\ADST\4th Lab Weigthed Grap\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+G:\ADST\4th Lab Weigthed Grap\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+F:\ADST\Weighted Graph in C#\4th Lab Weigthed Grap\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+F:\ADST\Weighted Graph in C#\4th Lab Weigthed Grap\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojResolveAssemblyReference.cache
