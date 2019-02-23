@@ -28,7 +28,6 @@ namespace ConsoleApp21
                     return Left.Height + 1;
                 return (Left.Height - Right.Height);
             }
-            private set { }
         }
         public int Height
         {
@@ -48,11 +47,6 @@ namespace ConsoleApp21
                 else
                     return 0;
             }
-
-            private set
-            {
-            }
-
         }
 
         public Node<T> Right;
